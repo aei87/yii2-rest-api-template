@@ -18,7 +18,7 @@ if (!class_exists('Rest_Api')) {
     public function __construct () {
 
         $this->username = 'testadmin';
-        $this->password = '!kQb1pTgc8#2gaqnxbw!@*14';
+        $this->password = '';
         $this->host = 'http://liveshetrades.fvds.ru';
         $this->path = 'shetrades/v1/custom';
     } 
