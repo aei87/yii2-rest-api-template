@@ -8,7 +8,7 @@ main class:
 /vendor/shetrades_rest_api/unirest/Rest_Api.php
 
 Yii design:
-/admin2/
+/design/
 
 Yii WP external files:
 /external/

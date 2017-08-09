@@ -1,0 +1,118 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+
+body{
+    background-color: #f5f5f5;
+    text-align: center; 
+}
+
+h4{
+    padding-bottom: 50px;
+}
+
+pre{
+
+}
+
+.wrapper{
+    max-width: 1366px;
+    margin:auto;
+    padding-top: 100px;
+}
+
+.form{
+    width:40%;
+    float:left;
+}
+
+.form .wrapper{
+    width:100%;
+    max-width:400px;
+    margin:0 auto;
+    background-color: #ffffff;
+    padding-top:50px;
+    padding-bottom: 50px;
+    padding-left:50px;
+    padding-right:50px;
+    -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,.07),1px 2px 5px 0 rgba(0,0,0,.06);
+    box-shadow: 1px 1px 1px 0 rgba(0,0,0,.07),1px 2px 5px 0 rgba(0,0,0,.06);
+
+}
+
+.info{
+    float:left;
+    width:60%;
+}
+
+.info .wrapper{
+    width:100%;
+    color:#999999;
+    max-width:700px;
+    margin:0 auto;
+    text-align: left;
+    padding-top:0px;
+    padding-bottom: 50px;
+    padding-left:50px;
+    font-size: 14px;
+    padding-right:50px;
+
+}
+
+.info h6{
+    font-weight: bold;
+}
+
+.info .post{
+    width: 50%;
+    float:left;
+}
+
+.info .files{
+    width: 50%;
+    float:left;
+    overflow: hidden;
+}
+
+.info i{
+    font-size: 15px;
+    color:#cccccc;
+}
+
+.mdl-button--file input {
+  cursor: pointer;
+  height: 100%;
+  right: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  font-size: 14px;
+  width: 300px;
+  z-index: 4;
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.mdl-textfield__input{
+    font-size: 14px;
+}
+
+.mdl-textfield__label{
+    font-size: 14px;
+}
+
+.mdl-textfield--file .mdl-textfield__input {
+  box-sizing: border-box;
+  width: calc(100% - 32px);
+}
+.mdl-textfield--file .mdl-button--file {
+  right: 0;
+}
+
+
+.readonly input{
+    color:#cccccc;
+}

@@ -1,0 +1,242 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ software-properties-common : Depends: python-gi but it is not going to be installed
+E: Unable to correct problems, you have held broken packages.
+sudo: add-apt-repository: command not found
+Hit http://download.ispsystem.com base-jessie InRelease
+Ign http://us.archive.ubuntu.com precise InRelease
+Hit http://us.archive.ubuntu.com precise-security InRelease
+Ign http://archive.canonical.com precise InRelease
+Ign http://extras.ubuntu.com precise InRelease
+Ign http://download.opensuse.org ./ InRelease
+Hit http://download.ispsystem.com 5.115-jessie InRelease
+Hit https://deb.nodesource.com jessie InRelease
+Hit http://us.archive.ubuntu.com precise-updates InRelease
+Get:1 http://download.opensuse.org ./ Release.gpg [189 B]
+Hit http://archive.canonical.com precise Release.gpg
+Hit http://extras.ubuntu.com precise Release.gpg
+Hit http://download.opensuse.org ./ Release
+Hit http://archive.canonical.com precise Release
+Hit http://extras.ubuntu.com precise Release
+Hit http://us.archive.ubuntu.com precise-backports InRelease
+Hit http://us.archive.ubuntu.com precise Release.gpg
+Hit http://download.ispsystem.com base-jessie/main amd64 Packages
+Hit http://us.archive.ubuntu.com precise Release
+Hit http://download.ispsystem.com base-jessie/main i386 Packages
+Ign http://download.ispsystem.com base-jessie/main Translation-en
+Hit http://download.ispsystem.com 5.115-jessie/main amd64 Packages
+Hit http://download.ispsystem.com 5.115-jessie/main i386 Packages
+Ign http://download.ispsystem.com 5.115-jessie/main Translation-en
+Get:2 https://deb.nodesource.com jessie/main Sources [765 B]
+Ign http://download.opensuse.org ./ Release
+Get:3 https://deb.nodesource.com jessie/main amd64 Packages [960 B]
+Ign http://download.opensuse.org ./ Packages/DiffIndex
+Get:4 https://deb.nodesource.com jessie/main i386 Packages [961 B]
+Get:5 https://deb.nodesource.com jessie/main Translation-en [162 B]
+Hit http://archive.canonical.com precise/partner Sources
+Hit http://extras.ubuntu.com precise/main Sources
+Hit http://archive.canonical.com precise/partner amd64 Packages
+Hit http://extras.ubuntu.com precise/main amd64 Packages
+Hit http://archive.canonical.com precise/partner i386 Packages
+Hit http://extras.ubuntu.com precise/main i386 Packages
+Hit http://archive.canonical.com precise/partner Translation-en
+Ign https://deb.nodesource.com jessie/main Translation-en
+Ign http://download.opensuse.org ./ Translation-en
+Hit http://download.opensuse.org ./ Packages
+Ign http://extras.ubuntu.com precise/main Translation-en
+Hit http://us.archive.ubuntu.com precise-security/main Sources
+Hit http://us.archive.ubuntu.com precise-security/restricted Sources
+Hit http://us.archive.ubuntu.com precise-security/universe Sources
+Hit http://us.archive.ubuntu.com precise-security/multiverse Sources
+Hit http://us.archive.ubuntu.com precise-security/main amd64 Packages
+Hit http://us.archive.ubuntu.com precise-security/restricted amd64 Packages
+Hit http://us.archive.ubuntu.com precise-security/universe amd64 Packages
+Hit http://us.archive.ubuntu.com precise-security/multiverse amd64 Packages
+Hit http://us.archive.ubuntu.com precise-security/main i386 Packages
+Hit http://us.archive.ubuntu.com precise-security/restricted i386 Packages
+Hit http://us.archive.ubuntu.com precise-security/universe i386 Packages
+Hit http://us.archive.ubuntu.com precise-backports/restricted Sources
+Hit http://us.archive.ubuntu.com precise-backports/restricted amd64 Packages
+Hit http://us.archive.ubuntu.com precise-backports/restricted i386 Packages
+Hit http://us.archive.ubuntu.com precise-backports/restricted Translation-en
+Hit http://us.archive.ubuntu.com precise-security/multiverse i386 Packages
+Hit http://us.archive.ubuntu.com precise-security/main Translation-en
+Hit http://us.archive.ubuntu.com precise-security/multiverse Translation-en
+Hit http://us.archive.ubuntu.com precise-security/restricted Translation-en
+Hit http://us.archive.ubuntu.com precise-security/universe Translation-en
+Hit http://us.archive.ubuntu.com precise-updates/main Sources
+Hit http://us.archive.ubuntu.com precise-updates/restricted Sources
+Hit http://us.archive.ubuntu.com precise-updates/universe Sources
+Hit http://us.archive.ubuntu.com precise-updates/multiverse Sources
+Hit http://us.archive.ubuntu.com precise-updates/main amd64 Packages
+Hit http://us.archive.ubuntu.com precise-updates/restricted amd64 Packages
+Hit http://us.archive.ubuntu.com precise-updates/universe amd64 Packages
+Hit http://us.archive.ubuntu.com precise-updates/multiverse amd64 Packages
+Hit http://us.archive.ubuntu.com precise-updates/main i386 Packages
+Hit http://us.archive.ubuntu.com precise-updates/restricted i386 Packages
+Hit http://us.archive.ubuntu.com precise-updates/universe i386 Packages
+Hit http://us.archive.ubuntu.com precise-updates/multiverse i386 Packages
+Hit http://us.archive.ubuntu.com precise-updates/main Translation-en
+Hit http://us.archive.ubuntu.com precise-updates/multiverse Translation-en
+Hit http://us.archive.ubuntu.com precise-updates/restricted Translation-en
+Hit http://us.archive.ubuntu.com precise-updates/universe Translation-en
+Hit http://us.archive.ubuntu.com precise-backports/main Sources
+Hit http://us.archive.ubuntu.com precise-backports/universe Sources
+Hit http://us.archive.ubuntu.com precise-backports/multiverse Sources
+Hit http://us.archive.ubuntu.com precise-backports/main amd64 Packages
+Hit http://us.archive.ubuntu.com precise-backports/universe amd64 Packages
+Hit http://us.archive.ubuntu.com precise-backports/multiverse amd64 Packages
+Hit http://us.archive.ubuntu.com precise-backports/main i386 Packages
+Hit http://us.archive.ubuntu.com precise-backports/universe i386 Packages
+Hit http://us.archive.ubuntu.com precise-backports/multiverse i386 Packages
+Hit http://us.archive.ubuntu.com precise-backports/main Translation-en
+Hit http://us.archive.ubuntu.com precise-backports/multiverse Translation-en
+Hit http://us.archive.ubuntu.com precise-backports/universe Translation-en
+Hit http://us.archive.ubuntu.com precise/main Sources
+Hit http://us.archive.ubuntu.com precise/restricted Sources
+Hit http://us.archive.ubuntu.com precise/universe Sources
+Hit http://us.archive.ubuntu.com precise/multiverse Sources
+Hit http://us.archive.ubuntu.com precise/main amd64 Packages
+Hit http://us.archive.ubuntu.com precise/restricted amd64 Packages
+Hit http://us.archive.ubuntu.com precise/universe amd64 Packages
+Hit http://us.archive.ubuntu.com precise/multiverse amd64 Packages
+Hit http://us.archive.ubuntu.com precise/main i386 Packages
+Hit http://us.archive.ubuntu.com precise/restricted i386 Packages
+Hit http://us.archive.ubuntu.com precise/universe i386 Packages
+Hit http://us.archive.ubuntu.com precise/multiverse i386 Packages
+Hit http://us.archive.ubuntu.com precise/main Translation-en
+Hit http://us.archive.ubuntu.com precise/multiverse Translation-en
+Hit http://us.archive.ubuntu.com precise/restricted Translation-en
+Hit http://us.archive.ubuntu.com precise/universe Translation-en
+Fetched 551 kB in 18s (29.2 kB/s)
+W: GPG error: http://download.opensuse.org ./ Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 5F3D540F3A802234
+W: Failed to fetch https://deb.nodesource.com/node_6.x/dists/jessie/main/source/Sources  Hash Sum mismatch
+
+W: Failed to fetch https://deb.nodesource.com/node_6.x/dists/jessie/main/binary-amd64/Packages  Hash Sum mismatch
+
+W: Failed to fetch https://deb.nodesource.com/node_6.x/dists/jessie/main/binary-i386/Packages  Hash Sum mismatch
+
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package libapache2-mod-php7.1
+E: Couldn't find any package by regex 'libapache2-mod-php7.1'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1
+E: Couldn't find any package by regex 'php7.1'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-bz2
+E: Couldn't find any package by regex 'php7.1-bz2'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-mcrypt
+E: Couldn't find any package by regex 'php7.1-mcrypt'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-curl
+E: Couldn't find any package by regex 'php7.1-curl'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-json
+E: Couldn't find any package by regex 'php7.1-json'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-fileinfo
+E: Couldn't find any package by regex 'php7.1-fileinfo'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-mbstring
+E: Couldn't find any package by regex 'php7.1-mbstring'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-gd
+E: Couldn't find any package by regex 'php7.1-gd'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-bcmath
+E: Couldn't find any package by regex 'php7.1-bcmath'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-xml
+E: Couldn't find any package by regex 'php7.1-xml'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-dom
+E: Couldn't find any package by regex 'php7.1-dom'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-pdo
+E: Couldn't find any package by regex 'php7.1-pdo'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-zip
+E: Couldn't find any package by regex 'php7.1-zip'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-gettext
+E: Couldn't find any package by regex 'php7.1-gettext'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-sqlite
+E: Couldn't find any package by regex 'php7.1-sqlite'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-tokenizer
+E: Couldn't find any package by regex 'php7.1-tokenizer'
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package php7.1-mysql
+E: Couldn't find any package by regex 'php7.1-mysql'
+Restarting web server: apache2AH00112: Warning: DocumentRoot [/var/www/ed/data/www/local.fvds.ru] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/node.com] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/node.com] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/www/nusoundfm.com] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/www/nusoundfm.com] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/www/regis.fvds.ru] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/www/simple.com] does not exist
+AH00112: Warning: DocumentRoot [/var/www/ed/data/www/simple.com] does not exist
+.
+All settings correct for using Composer
+Downloading...
+
+Composer (version 1.4.2) successfully installed to: /usr/local/bin/composer
+Use it: php /usr/local/bin/composer
+
+Module rewrite already enabled
+Module filter already enabled
+Considering dependency filter for deflate:
+Module filter already enabled
+Module deflate already enabled
+Module alias already enabled
+Module headers already enabled
+Module mime already enabled
+Module env already enabled
+Reloading web server: apache2.

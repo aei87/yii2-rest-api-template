@@ -1,0 +1,1 @@
+Redirect /index.html http://restapi.fvds.ru/backend/web/index.php?r=events%2Fget_events
